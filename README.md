@@ -52,10 +52,3 @@ Você também pode modfificar a diferença percentual de acordo com a sua estrat
 
 Solicitações pull requests são bem-vindas!
 
-## License
-
-<<<<<<< HEAD
-[MIT](https://choosealicense.com/licenses/mit/)
-=======
-[MIT](https://choosealicense.com/licenses/mit/)
->>>>>>> 0dc4c531b4bce33d7abff16975ac300b35bfc1cb
