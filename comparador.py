@@ -1,4 +1,4 @@
-# Antes de rodar o codigo, certifique-se que instalou o "pip install ccxt"
+# Antes de rodar o codigo, certifique-se que instalou o "pip install ccxt".
 import ccxt
 
 exchanges = ['latoken', 'probit']
