@@ -6,6 +6,12 @@ O Comparador de moedas é um programa que otimiza a pesquisa de preços de cript
 ## Pré-requisitos
 Python 3.11.4
 
+
+## Clone este repositório:
+```bash
+https://github.com/MgnMagno/comparador_de_moedas.git
+```
+
 ## Instalação
 Instale a biblioteca CCXT
 
